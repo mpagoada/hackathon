@@ -1,0 +1,38 @@
+#land-page {
+    font-family: 'Oswald', sans-serif;
+ color: white;
+ background-color:#71da71;
+ text-align:center;
+
+    
+}
+
+#land {
+  background-image: url("https://media.giphy.com/media/qGVrkvB0rDFcY/giphy.gif");
+ color: white;
+ background-repeat: no-repeat; 
+ background-position: center center;
+ text-align: center;
+ background-size: cover;
+ height: 300px;
+ width: 100%;
+}
+
+p,li {
+    font-family: 'Quicksand', sans-serif;
+    font-size:17px;
+}
+#quirky {
+    font-style:italic;
+    font-size:25px;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size:50px;
+}
+
+#arrow {
+  width: 50px;
+}
+    

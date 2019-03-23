@@ -8,12 +8,13 @@ $('h1').click(function(){
 });
 
 
-function buttonOne( ) {
-    $("").href(""); 
-    
-    
-}   
 
-function (){ 
-    $().();
-} 
+
+$("h1").hover (
+    function () { 
+        $(this).addClass("hover");
+    }, function (){
+        $ (this).removeClass ("hover");
+    }
+ );
+ 

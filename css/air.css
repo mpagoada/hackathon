@@ -1,0 +1,37 @@
+#air {
+ background-image: url("https://media1.tenor.com/images/a3407ae8f64ca67350f889b4730b9718/tenor.gif?itemid=8834897");
+ color: white;
+ background-repeat: no-repeat; 
+ background-position: center center;
+ text-align: center;
+ background-size: cover;
+ height: 300px;
+ width: 100%;
+}
+
+p,li {
+   font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+ font-family: 'Abril Fatface', cursive;
+ font-size:50px;
+}
+
+#quest {
+ font-style: italic;
+ font-family: 'Quicksand', sans-serif;
+ font-size:25px;
+}
+
+#arrow {
+  width: 50px;
+}
+body{
+ text-align:center;
+ background-color:#b3b3b3;
+ 
+}
+ul{
+ list-style-position:inside;
+}
